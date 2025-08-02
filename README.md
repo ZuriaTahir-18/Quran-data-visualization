@@ -6,7 +6,7 @@ This project involves performing data cleaning, statistical analysis, and visual
 
 ---
 
-## 📌 Project Objective
+## Project Objective
 
 The objective of this project is to:
 - Clean and preprocess the Quran dataset for analysis.
@@ -16,7 +16,7 @@ The objective of this project is to:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -26,7 +26,7 @@ The objective of this project is to:
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1. **Clone the Repository**
    ```bash
