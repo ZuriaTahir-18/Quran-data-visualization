@@ -1,5 +1,4 @@
-# Quran-data-visualization
-An exploratory data analysis and visualization project on the Quran dataset. The notebook includes data cleaning, statistical summaries, and multiple visualizations to extract meaningful insights from the text and metadata of Quranic verses.
+
 # Quran Data Analysis and Visualization
 
 This project involves performing data cleaning, statistical analysis, and visualizations on a Quran dataset to uncover meaningful patterns related to Surahs, Ayahs, word counts, and more. The assignment was structured to follow a complete data science workflow from preprocessing to conclusion.
